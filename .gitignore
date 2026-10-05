@@ -1,0 +1,3 @@
+# 빌드 결과물 (exe는 GitHub Releases에 첨부)
+*.exe
+*.pdb
