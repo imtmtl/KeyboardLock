@@ -69,3 +69,7 @@ build.bat
 | `build.bat` | 빌드 스크립트 |
 | `app.ico` | 실행 파일 아이콘 (16~256px) |
 | `docs/icon.png` | README용 아이콘 이미지 |
+
+## 라이선스
+
+[MIT License](LICENSE)
